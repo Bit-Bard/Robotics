@@ -89,7 +89,7 @@ pip3 install RPi.GPIO
 ```
 mkdir ~/Robotics
 cd ~/Robotics
-git clone <your-repo-link>
+git clone https://github.com/Bit-Bard/Robotics
 cd pan_tilt
 ```
 
@@ -130,7 +130,7 @@ rpicam-still -o test.jpg
 Run detection:
 
 ```
-python3 expression_detect_single.py
+python3 face_track.py
 ```
 
 Output saved as `output.jpg`.
