@@ -1,6 +1,6 @@
 # **AI-Powered Pan–Tilt Expression Tracking System (Raspberry Pi + OpenCV + Servos)**
 
-## ** Introduction**
+##  Introduction
 
 This project builds an **autonomous pan–tilt camera system** using a Raspberry Pi, OpenCV, and two micro-servos.
 The system detects a human face in real time and **automatically rotates the camera** so that the face stays centered.
@@ -146,9 +146,9 @@ You now have a working setup capable of face tracking, expression analysis, and 
 
 ## **📬 Contact**
 
-**Developer:** Dhruv Devaliya
-**LinkedIn:** [https://www.linkedin.com/in/dhruv-devaliya/](https://www.linkedin.com/in/dhruv-devaliya/)
-**GitHub:** [https://github.com/Bit-Bard](https://github.com/Bit-Bard)
-**Email:** *(dhruvdevaliya@gmail.com)*
+#### Made by Love through Dhruv Devaliya
+#### LinkedIn: [https://www.linkedin.com/in/dhruv-devaliya/](https://www.linkedin.com/in/dhruv-devaliya/)
+#### GitHub: [https://github.com/Bit-Bard](https://github.com/Bit-Bard)
+### **Email:** *(dhruvdevaliya@gmail.com)*
 
 ---
